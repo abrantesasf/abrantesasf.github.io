@@ -53,7 +53,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.6.0)
   jekyll-feed (~> 0.6)
-  jekyll-theme-cayman-blog
+  jekyll-theme-cayman-blog (~> 0.0.6)
   minima (~> 2.0)
   tzinfo-data
 
