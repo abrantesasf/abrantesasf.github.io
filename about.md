@@ -1,13 +1,15 @@
 ---
 layout: page
 title: About
-tagline: Who is Abrantes Filho?
+tagline: Who is Abrantes Araújo Silva Filho?
 permalink: /about/
 ---
 
-Who is Abrantes Filho?
+# About me
 
-Well, my formal education says that I am a medical doctor with a master's degree in epidemiology
+Who is Abrantes Araújo Silva Filho?
+
+Well, my formal education says that I am a brazilian medical doctor with a master's degree in epidemiology
 (specifically in the area of research and statistical analysis of data).
 
 However, when you start to get to know me, you will see that I have always directed my activities
@@ -34,10 +36,16 @@ Databases (Oracle, PostgreSQL, MySQL, SQL Server); Linux/Unix Administration (Re
 CentOS, SuSE, Debian); Statistical and Mathematical Software (R, Stata, SPSS, Matlab,
 Octave); and several other Miscellaneous Systems (general and specialized).
 
+As you may have noticed English is not my primary language so I'm sorry for the bad
+writing style.
 
-This is my personal site, the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
+# About this site
 
-You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
+This is my personal website where I write texts, articles and other thoughts about various
+subjects of my interest, such as: data science, statistics, analytics, epidemiology,
+databases, softwares, operating systems, politics, and many other subjects (maybe even
+one or two random thoughts).
 
+Please, feel free to contact me!
 
-[Go to the Home Page](./)
+[Back to the Home Page](./)
