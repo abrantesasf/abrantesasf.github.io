@@ -49,4 +49,4 @@ one or two random thoughts).
 
 Please, feel free to contact me!
 
-[Back to the Home Page](./)
+[Back to Top](#top) &mdash; [Back to Home](./)
