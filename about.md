@@ -2,7 +2,6 @@
 layout: page
 title: About
 tagline: Who is Abrantes Araújo Silva Filho?
-permalink: /about/
 ---
 
 # About me
@@ -35,6 +34,8 @@ In addition I have advanced knowledge and expertise in large number of IT tools,
 Databases (Oracle, PostgreSQL, MySQL, SQL Server); Linux/Unix Administration (RedHat,
 CentOS, SuSE, Debian); Statistical and Mathematical Software (R, Stata, SPSS, Matlab,
 Octave); and several other Miscellaneous Systems (general and specialized).
+
+For a more detailed view of my skills, please visit my skills page.
 
 As you may have noticed English is not my primary language so I'm sorry for the bad
 writing style.
