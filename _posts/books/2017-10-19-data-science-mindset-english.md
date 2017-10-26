@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  '[Book] Data Science: Mindset, Methodologies, and Misconceptions'
-date:   2017-10-19 00:00:00 -0300
-categories: books
+title:       '[Book] Data Science: Mindset, Methodologies, and Misconceptions'
+date:        2017-10-19 00:00:00 -0300
+image:       '/images/books/data_science_mindset.jpg'
+description: 'Book review: Data Science: Mindset, Methodologies, and Misconceptions'
+keywords:    'data science, review, book'
+categories:  books
 ---
 
 One of the books I'm reading right now is _Zacharias Voulgaris's_ **Data Science: Mindset, Methodologies, and Misconceptions**, the first edition of which was published in 2017.

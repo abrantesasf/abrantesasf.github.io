@@ -1,8 +1,11 @@
 ---
-layout: post
-title:  '[Livro] R Programming for Data Science'
-date:   2017-10-21 00:00:00 -0300
-categories: books
+layout:      post
+title:       '[Livro] R Programming for Data Science'
+date:        2017-10-21 00:00:00 -0300
+image:       '/images/books/r_programming_for_data_science.png'
+description: 'Resenha do livro: Data Science: Mindset, Methodologies, and Misconceptions'
+keywords:    'data science, resenha, livro'
+categories:  books
 ---
 
 Se você quer aprender o básico de programação em R, um bom livro interessante é o **R Programming for Data Science**, de _Roger D. Peng_:
