@@ -5,7 +5,7 @@ date:        2017-11-04 00:00:00 -0300
 image:       '/images/misc/case_1_1_1_05.png'
 description: 'Estudo de caso com PCA e K-Means no MATLAB'
 keywords:    'data science, K-Means, PCA, MATLAB'
-categories:  books
+categories:  data-science
 ---
 
 Este &eacute; um estudo de caso reproduzindo a an&aacute;lise de <b>Alexander N. Gorban</b> e <b>Andrei Y. Zinovyev</b>, publicada no livro <i><b>Principal Manifolds for Data Visualization and Dimension Reduction (Lecture Notes in Computational Science and Engineering)</b></i>. O cap&iacute;tulo original pode ser baixado na &iacute;ntegra no site do autor (<a href="http://www.ihes.fr/~zinovyev/">http://www.ihes.fr/~zinovyev/</a>) e o livro pode ser <a href="https://www.amazon.com.br/gp/product/3540737499/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=3540737499&amp;linkCode=as2&amp;tag=abrantesasf01-20&amp;linkId=5334538bfcf0a64c5db86324d8cd1829">adquirido na Amazon</a>.
