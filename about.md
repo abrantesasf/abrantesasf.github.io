@@ -48,5 +48,3 @@ databases, softwares, operating systems, politics, and many other subjects (mayb
 one or two random thoughts).
 
 Please, feel free to contact me!
-
-[Back to Top](#top) &mdash; [Back to Home](./)
