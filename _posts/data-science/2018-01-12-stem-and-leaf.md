@@ -288,6 +288,17 @@ está detalhado na documentação do stemgraphic);
 * A mediana (na cor púrpura) está ao redor de 3,32.
 
 É um gráfico perfeito? Não... mas é muito melhor do que o Stem-and-Leaf gerado pelo R ou pelo Stata.
+E o procedimento de amostragem que o stemgraphic utiliza funciona muito bem até para dataset muito
+maiores. Por exemplo, o [dataset com os dados de todos os vôos comerciais nos EUA](http://stat-computing.org/dataexpo/2009/)
+em 2008 contém quase 7 milhões de observações. O stemgraphic gerou o Stem-and-Leaf da variável "AirTime"
+(tempo de vôo, em minutos) abaixo:
+
+<center>
+<figure>
+<img alt="Stem-and-Leaf no Python com o stemgraphic" src="/images/data-science/stem-and-leaf-11.png" width="100%" style="float: center">
+<figcaption>Stem-and-Leaf no Python com o stemgraphic (6.855.029 observações)</figcaption>
+</figure>
+</center>
 
 ## Em resumo
 
