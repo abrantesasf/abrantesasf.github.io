@@ -6,6 +6,11 @@ tagline: Who is Abrantes Araújo Silva Filho?
 
 # About me
 
+<figure style="float:right;">
+<img alt="Abrantes Araújo Silva Filho em fev/2018" src="/images/about/foto_247x400.jpg">
+<figcaption>Abrantes Araújo Silva Filho<br />fevereiro/2018</figcaption>
+</figure>
+
 Who is Abrantes Araújo Silva Filho?
 
 Well, my formal education says that I am a brazilian medical doctor with a master's degree in epidemiology
